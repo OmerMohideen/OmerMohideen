@@ -32,6 +32,15 @@
 </p>
 <br>
 
-<img align="right" style="height: auto; width: 40%;" src="https://github-stats-extended.vercel.app/api?username=omermohideen&show_icons=true&locale=en&theme=apprentice" />
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=omermohideen&theme=apprentice"
+    width="40%"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=omermohideen&show_icons=true&locale=en&theme=apprentice"
+    width="40%"
+  />
+</p>
 
-<img align="left" style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omermohideen&theme=apprentice" />
