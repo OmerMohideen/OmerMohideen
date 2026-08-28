@@ -5,9 +5,9 @@
 
 <br>
 <div align="center">
- 🔭 Working on my portfolio to showcase my projects and skills.<br><br>
- 🌱 Currently diving into Golang and expanding my programming language expertise.<br><br>
- ❓ Ask me anything about PHP, Javascript, C#, Golang, and Python—I love discussing these languages!  
+ 🔭 Working on nothing.<br><br>
+ 🌱 Currently diving into nothing.<br><br>
+ ❓ Ask me anything about nothing!
 </div>
 <br>  
 
@@ -22,7 +22,7 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cs,php,go&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cs,php,go,zig&perline=6" />
 </p>
 <br>
 
