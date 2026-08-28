@@ -32,6 +32,6 @@
 </p>
 <br>
 
-<img align="right" style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=omermohideen&show_icons=true&locale=en&theme=tokyonight" alt="r1ck404" />
+<img align="right" style="height: auto; width: 40%;" src="https://github-stats-extended.vercel.app/api?username=omermohideen&show_icons=true&locale=en&theme=apprentice" />
 
-<img align="left" style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omermohideen&theme=tokyonight" />
+<img align="left" style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=omermohideen&theme=apprentice" />
